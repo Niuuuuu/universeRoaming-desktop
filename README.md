@@ -2,7 +2,7 @@
 Java sideproject using libgdx.
 Focusing on object oriented design.
 Most of the backend codes are in this repo : https://github.com/Niuuuuu/universeRoaming
-To execute this project must run the main,java in this repo
+To execute this project must run the main.java in this repo
 
 gameplay images 
 ===================================
